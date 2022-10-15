@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Catalogo de peliculas</string>
+    <string name="search_film">Buscar</string>
+    <string name="fecha_de_lanzamiento">Fecha de lanzamiento :</string>
+    <string name="fecha">Fecha</string>
+    <string name="popularidad">Popularidad :</string>
+    <string name="argumento">ARGUMENTO :</string>
+    <string name="trailer">Trailer</string>
+    <string name="hola_ndisfruta_del_top">Hola,\nDisfruta del Top</string>
+    <string name="top_de_pliculas_x1f60a">Top de pliculas 😊</string>
+    <string name="peliculas_recomendadas">Peliculas recomendadas</string>
+    <string name="sin_pel_culas_favoritas">Sin películas favoritas!</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="recordatorio_diario">Recordatorio diario</string>
+    <string name="recordatorio_de_lanzamiento">Recordatorio de lanzamiento</string>
+    <string name="cambiar_idioma">Cambiar idioma</string>
+</resources>
